@@ -1,7 +1,7 @@
 # OSWIS – One Simple Web IS
 
 
-* [zakjakub/oswis-core-bundle](https://github.com/zakjakub/oswis-core-bundle) – common parts of IS, app users management
+* [zakjakub/oswis-core-bundle](https://github.com/zakjakub/oswis-core-bundle) – common parts, app users management
 * [zakjakub/oswis-address-book-bundle](https://github.com/zakjakub/oswis-address-book-bundle) – management of contacts and organizations
 * [zakjakub/oswis-calendar-bundle](https://github.com/zakjakub/oswis-calendar-bundle) – management of events and participants
 * [zakjakub/oswis-web-bundle](https://github.com/zakjakub/oswis-web-bundle) – very simple CMS
