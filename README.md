@@ -9,7 +9,7 @@
 * [zakjakub/oswis-ticket-bundle](https://github.com/zakjakub/oswis-ticket-bundle) – simple ticket management
 * [zakjakub/oswis-wiki-bundle](https://github.com/zakjakub/oswis-wiki-bundle) – knowledge base
 * [zakjakub/oswis-accommodation-bundle](https://github.com/zakjakub/oswis-accommodation-bundle) – accommodation facility management ([Rekreační středisko, PřF UP](https://karlov.upol.cz))
-* [zakjakub/oswis-job-fair-bundle](https://github.com/zakjakub/oswis-job-fair-bundle) – management of job fair ([Okno do praxe 2019, UP](https://oknodopraxe.upol.cz))
+* [zakjakub/oswis-job-fair-bundle](https://github.com/zakjakub/oswis-job-fair-bundle) – management of job fair ([Okno do praxe 2019, UP](https://oknodopraxe.upol.cz)) (functionality moved to oswis-calendar-bundle)
 
 
 
